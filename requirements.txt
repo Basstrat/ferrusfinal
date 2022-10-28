@@ -1,4 +1,4 @@
-asgiref==4
+asgiref==3.3.2
 cairocffi==1.2.0
 CairoSVG==2.5.2
 cssselect2==0.4.1
